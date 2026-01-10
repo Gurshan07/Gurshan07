@@ -47,7 +47,7 @@ Both into development and deployment who loves building side projects and learni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
 
   <!-- Vercel -->
-  <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" width="45" height="45"/>
 
   <!-- Render -->
   <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="45" height="45"/>
