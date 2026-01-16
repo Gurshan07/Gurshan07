@@ -10,17 +10,13 @@
 
 <br/>
 
-<a href="https://github.com/Gurshan07/moecounter.js">
-  <img src="https://img.shields.io/badge/🐈%20moecounter.js-Live_Demo-F75C7E?style=for-the-badge&labelColor=black" />
-</a>
-<br />
+<div><a href="https://github.com/Gurshan07/moecounter.js"><img src="https://img.shields.io/badge/moecounter.js-black?style=for-the-badge&logo=github" /></a><a href="https://moecounter-showcase.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-F75C7E?style=for-the-badge" /></a></div>
 
-<a href="https://github.com/Gurshan07/CP-Client">
-  <img src="https://img.shields.io/badge/💬%20Chatpulse-Live_Demo-38BDF8?style=for-the-badge&labelColor=black" />
-</a>
-<br />
+<br/>
 
-</div>
+<div><a href="https://github.com/Gurshan07/CP-Client"><img src="https://img.shields.io/badge/Chatpulse-black?style=for-the-badge&logo=github" /></a><a href="https://gurshan.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge"/></a></div>
+
+<br/>
 
 ---
 
