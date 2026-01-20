@@ -35,7 +35,14 @@
 ### Frameworks & Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
+  alt="Express"
+  width="45"
+  height="45"
+/>
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
 <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" width="45" height="45"/>
 <img src="https://cdn.simpleicons.org/mui/007FFF" alt="Material UI" width="45" height="45"/>
@@ -60,8 +67,6 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gurshan07&theme=radical" height="180" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gurshan07&theme=radical" height="180" />
-<br/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gurshan07&theme=radical&utcOffset=5.5" height="180" />
 
 </div>
 
