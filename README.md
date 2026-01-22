@@ -10,13 +10,13 @@
 
 <br/>
 
-<div><a href="https://github.com/Gurshan07/moecounter.js"><img src="https://img.shields.io/badge/moecounter.js-black?style=for-the-badge&logo=github" /></a><a href="https://moecounter-showcase.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-F75C7E?style=for-the-badge" /></a></div>
+| Project Name | Repository | Live Demo |
+| :---: | :---: | :---: |
+| **MoeCounter.js** | <a href="https://github.com/Gurshan07/moecounter.js"><img src="https://img.shields.io/badge/moecounter.js-black?style=for-the-badge&logo=github" /></a> | <a href="https://moecounter-showcase.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge" /></a> |
+| **ChatPulse** | <a href="https://github.com/Gurshan07/CP-Client"><img src="https://img.shields.io/badge/Chatpulse-black?style=for-the-badge&logo=github" /></a> | <a href="https://gurshan.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge"/></a> |
+| **Pulse Sync** | <a href="https://github.com/Gurshan07/Api-Status"><img src="https://img.shields.io/badge/Pulse_sync-black?style=for-the-badge&logo=github" /></a> | <a href="https://api-status-gurshan07.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-F75C7E?style=for-the-badge"/></a> |
 
-<br/>
-
-<div><a href="https://github.com/Gurshan07/CP-Client"><img src="https://img.shields.io/badge/Chatpulse-black?style=for-the-badge&logo=github" /></a><a href="https://gurshan.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge"/></a></div>
-
-<br/>
+</div>
 
 ---
 
@@ -25,36 +25,28 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
 
 ### Frameworks & Libraries
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
-  alt="Express"
-  width="45"
-  height="45"
-/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" alt="Tailwind CSS" width="45" height="45"/>&nbsp;
 <img src="https://cdn.simpleicons.org/mui/007FFF" alt="Material UI" width="45" height="45"/>
 
 ### Tools & Platforms
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" width="45" height="45"/>
-<img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" width="45" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="45" height="45"/>&nbsp;
 <img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" width="45" height="45"/>
 
 </div>
