@@ -12,9 +12,10 @@
 
 | Project Name | Repository | Live Demo |
 | :---: | :---: | :---: |
+| **Pulse Sync** | <a href="https://github.com/Gurshan07/Api-Status"><img src="https://img.shields.io/badge/Pulse_sync-black?style=for-the-badge&logo=github" /></a> | <a href="https://api-status-gurshan07.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-F75C7E?style=for-the-badge"/></a> |
 | **MoeCounter.js** | <a href="https://github.com/Gurshan07/moecounter.js"><img src="https://img.shields.io/badge/moecounter.js-black?style=for-the-badge&logo=github" /></a> | <a href="https://moecounter-showcase.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge" /></a> |
 | **ChatPulse** | <a href="https://github.com/Gurshan07/CP-Client"><img src="https://img.shields.io/badge/Chatpulse-black?style=for-the-badge&logo=github" /></a> | <a href="https://gurshan.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge"/></a> |
-| **Pulse Sync** | <a href="https://github.com/Gurshan07/Api-Status"><img src="https://img.shields.io/badge/Pulse_sync-black?style=for-the-badge&logo=github" /></a> | <a href="https://api-status-gurshan07.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-F75C7E?style=for-the-badge"/></a> |
+| **Traveller's Diary** | <a href="https://github.com/Gurshan07/Traveller-s-Diary"><img src="https://img.shields.io/badge/Traveller's_Diary-black?style=for-the-badge&logo=github" /></a> | <a href="https://traveller-s-diary.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge"/></a> |
 
 </div>
 
@@ -91,5 +92,9 @@
 <br/><br/>
 
 ![Profile Views](https://moecounter.jawandha-moecounter.workers.dev/api/v2/moecounter/increment?theme=booru-lisu&length=4&name=Gurshan07)
+<div align="center">
 
+### Profile Views
+
+</div>
 </div>
