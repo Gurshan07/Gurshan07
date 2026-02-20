@@ -69,12 +69,6 @@
 
 ## 🔥 Activity & Contributions
 
-<a href="https://github.com/Gurshan07">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurshan07&theme=redical&hide_border=true&area=true" width="100%"/>
-</a>
-
-<br/>
-
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gurshan07&theme=radical" width="100%" />
 
 </div>
