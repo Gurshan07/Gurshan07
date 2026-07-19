@@ -18,7 +18,6 @@
 | **Traveller's Diary** | <a href="https://github.com/Gurshan07/Traveller-s-Diary"><img src="https://img.shields.io/badge/Traveller's_Diary-black?style=for-the-badge&logo=github" /></a> | <a href="https://traveller-s-diary.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge"/></a> |
 
 </div>
-
 ---
 
 <div align="center">
@@ -58,18 +57,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gurshan07&theme=radical" height="180" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gurshan07&theme=radical" height="180" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Activity & Contributions
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gurshan07&theme=radical" width="100%" />
 
 </div>
 
@@ -92,3 +80,4 @@
 
 </div>
 </div>
+
